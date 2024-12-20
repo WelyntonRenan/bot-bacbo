@@ -1,0 +1,4 @@
+flask==2.0.1
+selenium==4.10.0
+seleniumbase==4.15.2
+python-dotenv==1.0.0
